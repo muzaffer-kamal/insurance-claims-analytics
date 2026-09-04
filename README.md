@@ -2,18 +2,20 @@
 End-to-end insurance claims analytics project using Power BI, risk scoring, financial risk analysis, and statistical anomaly detection.
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Overview Dashboard
 
-![Overview Dashboard](assets/screenshots/overview-dashboard.png)
+![Overview Dashboard](assets/overview-dashboard.png)
 
 ### Financial Risk Analysis
 
-![Financial Risk Analysis](assets/screenshots/financial-risk-analysis.png)
+![Financial Risk Analysis](assets/financial-risk-analysis.png)
 
 ### Potential Anomalies & Outliers
 
-![Potential Anomalies](assets/screenshots/potential-anomalies.png)
+![Potential Anomalies](assets/potential-anomalies.png)
 
 ### Risk Analysis
 
-![Risk Analysis](assets/screenshots/risk-analysis.png)
+![Risk Analysis](assets/risk-analysis.png)
